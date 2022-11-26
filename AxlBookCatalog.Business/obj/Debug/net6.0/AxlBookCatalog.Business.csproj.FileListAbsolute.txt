@@ -1,0 +1,17 @@
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\bin\Debug\net6.0\AxlBookCatalog.Business.deps.json
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\bin\Debug\net6.0\AxlBookCatalog.Business.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\bin\Debug\net6.0\AxlBookCatalog.Business.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\bin\Debug\net6.0\AxlBookCatalog.Business.Abstractions.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\bin\Debug\net6.0\AxlBookCatalog.Domain.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\bin\Debug\net6.0\AxlBookCatalog.Business.Abstractions.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\bin\Debug\net6.0\AxlBookCatalog.Domain.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\AxlBookCatalog.Business.csproj.AssemblyReference.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\AxlBookCatalog.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\AxlBookCatalog.Business.AssemblyInfoInputs.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\AxlBookCatalog.Business.AssemblyInfo.cs
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\AxlBookCatalog.Business.csproj.CoreCompileInputs.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\AxlBookCatalog.Business.csproj.CopyComplete
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\AxlBookCatalog.Business.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\refint\AxlBookCatalog.Business.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\AxlBookCatalog.Business.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business\obj\Debug\net6.0\ref\AxlBookCatalog.Business.dll

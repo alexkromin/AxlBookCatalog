@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "AxlBookCatalog.Business.Abstractions/1.0.0": {
+        "dependencies": {
+          "AxlBookCatalog.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AxlBookCatalog.Business.Abstractions.dll": {}
+        }
+      },
+      "AxlBookCatalog.Domain/1.0.0": {
+        "runtime": {
+          "AxlBookCatalog.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AxlBookCatalog.Business.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AxlBookCatalog.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

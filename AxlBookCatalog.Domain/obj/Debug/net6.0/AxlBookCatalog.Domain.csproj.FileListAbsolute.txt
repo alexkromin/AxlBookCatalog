@@ -1,0 +1,12 @@
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\bin\Debug\net6.0\AxlBookCatalog.Domain.deps.json
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\bin\Debug\net6.0\AxlBookCatalog.Domain.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\bin\Debug\net6.0\AxlBookCatalog.Domain.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\AxlBookCatalog.Domain.csproj.AssemblyReference.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\AxlBookCatalog.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\AxlBookCatalog.Domain.AssemblyInfoInputs.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\AxlBookCatalog.Domain.AssemblyInfo.cs
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\AxlBookCatalog.Domain.csproj.CoreCompileInputs.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\AxlBookCatalog.Domain.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\refint\AxlBookCatalog.Domain.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\AxlBookCatalog.Domain.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Domain\obj\Debug\net6.0\ref\AxlBookCatalog.Domain.dll

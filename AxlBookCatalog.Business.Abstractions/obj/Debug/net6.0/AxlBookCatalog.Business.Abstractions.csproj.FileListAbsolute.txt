@@ -1,0 +1,15 @@
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\bin\Debug\net6.0\AxlBookCatalog.Business.Abstractions.deps.json
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\bin\Debug\net6.0\AxlBookCatalog.Business.Abstractions.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\bin\Debug\net6.0\AxlBookCatalog.Business.Abstractions.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\bin\Debug\net6.0\AxlBookCatalog.Domain.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\bin\Debug\net6.0\AxlBookCatalog.Domain.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\AxlBookCatalog.Business.Abstractions.csproj.AssemblyReference.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\AxlBookCatalog.Business.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\AxlBookCatalog.Business.Abstractions.AssemblyInfoInputs.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\AxlBookCatalog.Business.Abstractions.AssemblyInfo.cs
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\AxlBookCatalog.Business.Abstractions.csproj.CoreCompileInputs.cache
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\AxlBookCatalog.Business.Abstractions.csproj.CopyComplete
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\AxlBookCatalog.Business.Abstractions.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\refint\AxlBookCatalog.Business.Abstractions.dll
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\AxlBookCatalog.Business.Abstractions.pdb
+C:\alex\projects\AxlBookCatalog\AxlBookCatalog.Business.Abstractions\obj\Debug\net6.0\ref\AxlBookCatalog.Business.Abstractions.dll
