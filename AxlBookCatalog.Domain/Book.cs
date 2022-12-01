@@ -8,7 +8,7 @@
         /// Автор
         /// </summary>
         public string AuthorId { get; set; }
-        
+
         /// <summary>
         /// Название
         /// </summary>
@@ -17,12 +17,12 @@
         /// <summary>
         /// Год
         /// </summary>
-        public DateTime Year { get; set;}
+        public DateTime Year { get; set; }
 
         /// <summary>
         /// Описание
         /// </summary>
-        public string Description { get; set;}
+        public string Description { get; set; }
 
         /// <summary>
         /// URL обложки

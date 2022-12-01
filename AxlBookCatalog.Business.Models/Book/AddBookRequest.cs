@@ -14,7 +14,7 @@
 
         public int PageCount { get; set; }
 
-        public ICollection<BookProperty> Books { get; set; }
+        //public ICollection<BookProperty> AdditionalProperties { get; set; }
 
         public class BookProperty
         {
